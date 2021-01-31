@@ -1,0 +1,10 @@
+font - bebas neue + roboto
+font size- title text= 80
+	   paragraph= 16
+	   subtitle= 24
+	   
+color - button= #A4BC46 to #85A019
+	title+subtitle black= #363958
+	title yello= #FABE4C
+	paragraph text= #3E3E3E
+	nav links text= #3C3C3C
