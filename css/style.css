@@ -1,14 +1,14 @@
 @font-face{
     font-family: bebas;
-    src: url(/fonts/BebasNeue-Regular.woff) format("woff");
+    src: url(fonts/BebasNeue-Regular.woff) format("woff");
 }
 @font-face{
     font-family: roboto-regular;
-    src: url(/fonts/Roboto-Regular.woff) format("woff");
+    src: url(fonts/Roboto-Regular.woff) format("woff");
 }
 @font-face{
     font-family: roboto-bold;
-    src: url(/fonts/Roboto-Bold.woff) format("woff");
+    src: url(fonts/Roboto-Bold.woff) format("woff");
 }
 
 .font-bebas{
